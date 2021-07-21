@@ -42,8 +42,8 @@ After the first week of class, we will follow this class time routine for each p
 - __Day 2:__ Discuss the programming principles for R or Python based on student questions from completed readings.
 - __Day 3:__ Open programming time to complete the project in R/Python. Submit your assignment in Github the following day.
 - __Day 4:__ Class discussion on [being readings](readings.md) and introduction to second language principles.
-- __Day 5:__ Discuss the programming principles for the second language based on student questions from completed readings.
-_ __Day 6:__ Open programming time to complete the project in the second language.  Finalized project submission in both languages due before the next class period.
+- __Day 5:__ Discuss the programming principles for the second language based on student questions from completed readings.  
+- __Day 6:__ Open programming time to complete the project in the second language.  Finalized project submission in both languages due before the next class period.
 
 ### Project topics
 
