@@ -38,7 +38,7 @@ I follow the listed principles of data science teaching as found in [A Guide to 
 
 After the first week of class, we will follow this class time routine for each project throughout the semester.
 
-_ __Day 1:__ Review your completed work on the previous project with your team. Learn about the upcoming project.
+- __Day 1:__ Review your completed work on the previous project with your team. Learn about the upcoming project.
 - __Day 2:__ Discuss the programming principles for R or Python based on student questions from completed readings.
 - __Day 3:__ Open programming time to complete the project in R/Python. Submit your assignment in Github the following day.
 - __Day 4:__ Class discussion on [being readings](readings.md) and introduction to second language principles.
