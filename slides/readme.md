@@ -1,11 +1,3 @@
----
-
-title: Class slides
-nav_order: 4
-has_children: true
-
----
-
 # Class slides
 
 ## Week 1
