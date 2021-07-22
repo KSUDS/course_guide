@@ -1,4 +1,4 @@
-# Class material
+# 2. Class slides
 
 ## Week 1
 
