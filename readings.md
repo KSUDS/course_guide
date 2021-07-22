@@ -29,6 +29,7 @@ The doing readings are listed with each project to support what you will need to
 - [Issues with Spatial Aggregation](https://www.youtube.com/watch?v=wn5larsRHro)
 - [Gelman on p hacking](https://www.americanscientist.org/article/the-statistical-crisis-in-science)
 - [Of beauty, sex, and power: Statistical challenges in estimating small effects](http://www.stat.columbia.edu/~gelman/research/unpublished/power.pdf)
+- [NoSQL vs. SQL: The Future of Data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 
 
 ### Ethics and data science
