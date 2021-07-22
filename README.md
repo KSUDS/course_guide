@@ -64,8 +64,8 @@ We will leverage the R for Data Science book written by the RStudio employees.  
 
 We will leverage materials developed by other data scientists available on the internet.  We will have two types of supplemental readings.
 
-1. [Doing readings](readings.md)
-2. [Being readings](readings.md)
+1. [Doing readings](readings.md#doing-readings)
+2. [Being readings](readings.md#being-readings)
 
 ## Course grading
 
