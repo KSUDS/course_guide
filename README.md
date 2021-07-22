@@ -1,8 +1,3 @@
----
-layout: default
-nav_order: 1
----
-
 # Data Science Programming in R and Python Syllabus
 
 _Materials for STAT 4490 Data Science Programming (Special Topics). The syllabus is below. Our class material can be found in the [slides folder](slides/readme.md)._
