@@ -1,4 +1,4 @@
-# 3. Readings
+# Readings
 
 The doing readings are listed with each project to support what you will need to read to complete the respective project.  This list is for reference.  The being readings below are suggested.  As a class we will pick five to nine of them to read throughout the semester.
 
