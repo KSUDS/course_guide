@@ -1,13 +1,15 @@
 # Data Science Programming in R and Python Syllabus
-{: .no_toc }
 
 _Materials for STAT 4490 Data Science Programming (Special Topics). The syllabus is below. Our class material can be found in the [slides folder](slides/readme.md)._
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ## Course objectives
 
