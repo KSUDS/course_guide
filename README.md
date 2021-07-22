@@ -12,7 +12,7 @@ Materials for STAT 4490 Data Science Programming (Special Topics).
 
 ## Principles of data science teaching
 
-You may want to read my [teaching philosophy](https://datathink.io/my-learning-manifesto-aka-teaching-philosophy/) to see how I will manage the class. You may also find some joy in [reading student reviews of my courses at BYU-i](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2059480). 
+You may want to read my [teaching philosophy](https://datathink.io/my-learning-manifesto-aka-teaching-philosophy/) to see how I will manage the class. You may also find some joy in [reading student reviews of my courses at BYU-I](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2059480). 
 
 I follow the listed principles of data science teaching as found in [A Guide to Teaching Data Science](https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf). 
 
@@ -47,7 +47,7 @@ After the first week of class, we will follow this class time routine for each p
 
 ### Project topics
 
-- __Project 1:__ Principles of visualization
+- __Project 1:__ Principles of visualization and Github
 - __Project 2:__ Importing and tidying data
 - __Project 3:__ Proving your point
 - __Project 4:__ Spatial data visualization and analysis
@@ -55,7 +55,7 @@ After the first week of class, we will follow this class time routine for each p
 
 ## Course readings
 
-We will leverage the R for Data Science book written by the RStudio employees.  I have leveraged their book to demonstrate Python for Data Science as well. 
+We will leverage the R for Data Science book written by the RStudio employees.  I have tweaked their book to demonstrate Python for Data Science as well. 
 
 - [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/)
@@ -77,12 +77,41 @@ In a __specifications-grading system__, all tasks are evaluated on a high-standa
 
 ### Semester deliverables
 
-1. Completed LinkedIn and GitHub profiles
+1. Completed LinkedIn and GitHub profiles.
 1. A [grade request letter](grade_request.md) stating the key concepts and techniques you learned during our projects and your goals to continue learning in this area, including a grade request representing your knowledge and task completion.
-1. A resume that includes the skills you have learned during our projects
-1. A semester task form that records your completed tasks during the semester
-1. Semester project submission on GitHub
+1. A resume that includes the skills you have learned during our projects.
+1. A semester task form that records your completed tasks during the semester.
+1. Personal project submission on GitHub.
 
 ### Competency scale
 
+The following scale highlights the work that must be completed to warrant the listed grade.  Half-step in your respective grade can be negotiated in your grade request letter if you don't quite meet the specifications.
+
+#### A: I am a data scientist
+
+1. All five projects fully completed in both languages. 
+2. Team lead presentation at least twice.
+3. Three independent data projects completed.
+4. Active participation in being readings.
+5. Semester deliverables completed.
+
+#### B: Becoming a data scientist
+
+1. All five projects completed in at least one language and three completed in both.
+2. Team lead presentation at least once.
+3. Two independent data projects.
+4. Active participation in being readings.
+5. Semester deliverables completed.
+
+#### C: I understand data scientists
+
+1. Four projects completed in at least one language and two completed in both.
+2. Team lead presentation at least once.
+3. One independent data project.
+4. Attendance at being readings.
+5. Semester deliverables completed.
+
+#### D: I think I am awake
+
+1. One project completed in both languages.
 
