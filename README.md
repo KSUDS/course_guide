@@ -34,6 +34,8 @@ I follow the listed principles of data science teaching as found in [A Guide to 
 - __Data science readings:__ We will have data science 'being' readings which we will use in class discussions once each project.
 - __Coding challenges:__ A few times during the semester, you will have a coding challenge that lets you prove your developed programming skills.
 
+_Use the [course repo template](https://github.com/KSUDS/personal_project_tmplt) for your personal data projects._
+
 ### 3-week routine
 
 After the first week of class, we will follow this class time routine for each project throughout the semester.
