@@ -47,11 +47,11 @@ After the first week of class, we will follow this class time routine for each p
 
 ### Project topics
 
-- __Project 1:__ Principles of visualization and Github
-- __Project 2:__ Importing and tidying data
-- __Project 3:__ Proving your point
-- __Project 4:__ Spatial data visualization and analysis
-- __Project 5:__ Machine Learning Introduction
+- __Project 1:__ [Principles of visualization and Github](https://github.com/KSUDS/p1_visualization)
+- __Project 2:__ [Importing and tidying data](https://github.com/KSUDS/p2_data)
+- __Project 3:__ [Proving your point](https://github.com/KSUDS/p3_insight)
+- __Project 4:__ [Spatial data visualization and analysis](https://github.com/KSUDS/p4_spatial)
+- __Project 5:__ [Machine Learning Introduction](https://github.com/KSUDS/p5_machinelearning)
 
 ## Course readings
 
