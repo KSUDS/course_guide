@@ -2,7 +2,7 @@
 
 _Materials for STAT 4490 Data Science Programming (Special Topics). The syllabus is below. Our class material can be found in the [slides folder](slides/readme.md)._
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of contents
   </summary>
