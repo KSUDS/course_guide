@@ -1,3 +1,7 @@
+---
+parent: Data Science Programming in R and Python Syllabus
+---
+
 # End of semester grade request letter
 
 > The central argument here is that by acting as if grading motivates learning, we put both student and faculty energies in the wrong places. Does grading represent learning? Maybe … but mostly, grading motivates getting grades [ref](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1533-8525.2010.01195.x)
