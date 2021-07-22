@@ -1,5 +1,6 @@
 ---
 nav_order: "A"
+has_children: true
 ---
 
 # Data Science Programming in R and Python Syllabus
