@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: A
+has_children: true
+---
+
 # Class slides
 
 ## Week 1
