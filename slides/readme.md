@@ -1,5 +1,5 @@
-# Information used during class
+# Class material
 
 ## Week 1
 
-- [Day 1](d1.md)
+- [Day 1: Introduction](d1.md)
