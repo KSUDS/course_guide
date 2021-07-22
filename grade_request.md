@@ -14,6 +14,10 @@ Your grade request letter should be no longer than one page and include the foll
 
 ## Example grade request paragraph
 
+Would you please not write in your grade request letter that you worked hard to justify a grade?  The specifications for each grade level are listed on [they syllabus](readme.md).  Your paragraph could follow the format of the following example.
+
+> I completed all five projects in both languages after your feedback and enjoyed presenting my work to my team two times. You can find my three independent data projects in my Github repository (https://github.com/hathawayj). I was an active participant in all five readings and especially enjoyed the class conversation on the third article. You will find my other semester deliverables attached.
+
 ## Submission
 
 Please do not include this grade request letter on Github. Use the Kennesaw learning management system to submit this letter.
