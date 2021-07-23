@@ -76,7 +76,7 @@ If you are trying to get a job, then your Github space should be organized.  Tak
 
 - Make your landing page stand out by [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - Track your work share it with the world.
-- Organize and document your repositories.
+- Organize and document your repositories. Here are some [great examples](https://github.com/matiassingers/awesome-readme)
 - Find a project you could support (long term goal).
 
 ## References
