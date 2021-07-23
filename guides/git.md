@@ -4,6 +4,8 @@ nav_order: 'C'
 parent: User Guides
 ---
 
+# Github and Git
+
 <details markdown="block">
   <summary>
     Table of contents
@@ -12,8 +14,6 @@ parent: User Guides
 1. TOC
 {:toc}
 </details>
-
-# Github and Git
 
 Git and Github were born in the mid 2000s.  [Git's history](https://www.linuxjournal.com/content/git-origin-story) started to help the linux development team manage open source code management. It has now become the defacto version control system on the planet. Within three years [Github started](https://nira.com/github-history/) and eventually was purchased by Microsoft for 7.5 billion dollars in Microsoft stock.
 
