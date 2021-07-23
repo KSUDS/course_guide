@@ -12,6 +12,8 @@ parent: Guide
 
 ## R Extension for Visual Studio Code
 
+https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
+
 ## Markdown Preview 
 
 ## Git and Github
