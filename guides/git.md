@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 'C'
-parent: Guide
+parent: User Guides
 ---
 
 # Github and Git
