@@ -4,6 +4,6 @@ nav_order: 'W'
 has_children: true
 ---
 
-# Guides
+# User Guides
 
 __Short guides for our course (as needed).__
