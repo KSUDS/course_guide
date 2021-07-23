@@ -68,7 +68,7 @@ Caution: Before you *push* your changes to GitHub, first you should *pull* from 
 
 Here is an image that illustrates the work flow commands that were just described.
 
-![](img/git.png)
+![](../img/git.png)
 
 ## Managing your Github space
 
