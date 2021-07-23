@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 'A'
-parent: Guide
+parent: User Guides
 ---
 
 # VScode for Data Science
