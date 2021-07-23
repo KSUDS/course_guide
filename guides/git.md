@@ -72,9 +72,14 @@ Here is an image that illustrates the work flow commands that were just describe
 
 ## Managing your Github space
 
+If you are trying to get a job, then your Github space should be organized.  Take the time to make this space your coding 'social media' where people see the best side of your work.
+
+- Make your landing page stand out by [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- Track your work share it with the world.
+- Organize and document your repositories.
+- Find a project you could support (long term goal).
 
 ## References
 
-I took quite a bit of material from the University of Chicago's [Computing for the Social Sciences](https://cfss.uchicago.edu/setup/what-is-git/)
+I took quite a bit of material from the University of Chicago's [Computing for the Social Sciences](https://cfss.uchicago.edu/setup/what-is-git/).
 
-https://guides.github.com/features/wikis/
