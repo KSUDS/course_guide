@@ -6,3 +6,4 @@ has_children: true
 
 # Class slides
 
+_Material we cover during class._
