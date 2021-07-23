@@ -74,7 +74,7 @@ Here is an image that illustrates the work flow commands that were just describe
 
 If you are trying to get a job, then your Github space should be organized.  Take the time to make this space your coding 'social media' where people see the best side of your work.
 
-- Make your landing page stand out by [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- Make your landing page stand out by [Managing your profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). Use [this guide](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1) for additional inspiration.
 - Track your work share it with the world.
 - Organize and document your repositories. Here are some [great examples](https://github.com/matiassingers/awesome-readme)
 - Find a project you could support (long term goal).
