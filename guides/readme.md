@@ -6,4 +6,4 @@ has_children: true
 
 # Guides
 
-__Short guides for our course.__
+__Short guides for our course (as needed).__
