@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 'B'
-parent: Guide
+parent: User Guides
 ---
 
 # Slack 
