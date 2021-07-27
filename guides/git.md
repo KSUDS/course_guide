@@ -54,6 +54,17 @@ You will not see any output from these commands. To ensure the changes were made
 
 ## Connecting to Github
 
+Your Github username represents your business life as well as your personal life. [Github provides sound guidance](https://github.community/t/getting-started-with-github-part-1-best-practices-for-setting-up-your-github-account/10192) on setting up your account that I have plagiarized. Creating an account requires three things:
+
+1. A unique username, or handle
+2. An email address
+3. A password
+
+__Your name is important. It differentiates you from millions of other people. So too, is your GitHub handle.__ That might sound a little heavy, but, think about this: Your GitHub handle can be used to view your contributions to public projects hosted on GitHub. Your interactions with other people on GitHub are introduced with your avatar and handle. Selecting a handle that identifies you for the amazing person you are but can potentially survive the test of time can be hard. 
+
+Be you! When selecting your handle, it is very important to be true to yourself and who you are as an individual. Keep in mind, you might be listing your handle on your resume in the future and recruiters might be contacting you because of the work you do on GitHub. Having a handle that doesn’t raise questions about your personality or how you mesh with different members of a team is a great way to gauge if you are selecting a great handle.
+
+
 ## The Git workflow
 
 **Do this every time you finish a valuable chunk of work, at least once a day.**
