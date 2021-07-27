@@ -52,9 +52,24 @@ To make the interactive window use more functional you can `ctrl + ,` or `cmd + 
 
 ## R Extension for Visual Studio Code
 
-https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
-https://github.com/nx10/httpgd
+Yuki Ueda's [R extension](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) is the leading extension for using R within VScode. The [extension's wiki](https://github.com/REditorSupport/vscode-R/wiki) is a good guide. I recommend the following elements from their guide.
 
-## Markdown Preview 
+- [R Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r)
+- [Radian for the R terminal](https://github.com/REditorSupport/vscode-R/wiki/Installation:-macOS#radian)
+- [httpgd for chart management](https://github.com/REditorSupport/vscode-R/wiki/Installation:-macOS#httpgd)
+- [Editing your VScode configuration](https://supunkavinda.blog/vscode-editing-settings-json) `"Edit in settings.json"`
 
+```
+{
+  "r.bracketedPaste": true,
+  "r.rterm.windows": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\radian.exe"
+  "r.rterm.mac": "/usr/local/bin/radian"
+}
+```
 ## Git and Github
+
+Microsoft Github and is the lead developer of VScode.  As such, they are actively working on integrating Github and VScode functionality (see [Codespaces](https://github.com/features/codespaces)).  We will use the Git source control manager (SCM) that comes with VScode.  The [Git support guide from VScode](https://code.visualstudio.com/docs/editor/versioncontrol#_git-support) will suffice for our needs. We will only leverage a small portion of Git within our class.
+
+- [Clonning repositories from Github](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository)
+- [staging and committing](https://code.visualstudio.com/docs/editor/versioncontrol#_commit)
+- [Push and Pull commands](https://code.visualstudio.com/docs/editor/versioncontrol#_remotes)
