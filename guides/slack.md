@@ -6,7 +6,7 @@ parent: User Guides
 
 ## Slack 
 
-Interacting with a team on large projects over multiple time zones necessitates technology.  Since the 1990s, email has been the electronic form of communication among business professionals.  It is messy, hard to organize, and almost impossible to allow new members into the conversation.  Slack (Searchable Log of All Communication and Knowledge) started to make a footprint in the early 2010s and is heavily used by the tech industry to communicate. It was initially built by gamers to facilitate large group conversations.  You can still feel that vibe a bit in its interface.
+Interacting with a team on large projects over multiple time zones necessitates technology.  Since the 1990s, email has been the electronic form of communication among business professionals.  It is messy, hard to organize, and almost impossible to allow new members into the conversation.  Slack (Searchable Log of All Communication and Knowledge) started to make a footprint in the early 2010s and is heavily used by the tech industry to communicate. It was initially built by gamers to facilitate large group conversations and that that vibe is still felt in its interface. You can read more about [their history at nira.com](https://nira.com/slack-history/).
 
 The most significant competitor is Microsoft Teams.  Microsoft has built a worthy competitor.  However, you can feel that teams was built using all of Microsoft's old software to compete with Slack.  It has tons of functionality.  However, it just doesn't quite have the same ease of use and feel.
 
