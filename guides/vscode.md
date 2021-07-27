@@ -46,6 +46,8 @@ msg = "Hello again"
 print(msg)
 ```
 
+![](https://byuidatascience.github.io/python4ds/screenshots/vscode-code-cells-01.png)
+
 To make the interactive window use more functional you can `ctrl + ,` or `cmd + ,` on a mac to open the settings. From there you can search _‘Send Selection to Interactive Window’_ and make sure the box is checked. Now you will be able to use `shift + return` to send a selected chunk of code or an entire cell.
 
 ## R Extension for Visual Studio Code
