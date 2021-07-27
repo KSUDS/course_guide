@@ -38,7 +38,7 @@ I follow the listed principles of data science teaching as found in [A Guide to 
 
 ## Course communication
 
-1. Slack is used heavily in the data science space.  We will use it in our course for most non-graded communication.  Please use your `kennesaw.edu` email to [join our space](https://join.slack.com/t/kssds/signup)
+1. Slack is used heavily in the data science space.  We will use it in our course for most non-graded communication.  Please use your `kennesaw.edu` email to [join our space](https://join.slack.com/t/ksuds/signup)
 2. Github is the space where data science is shared.  Data scientists use Github for project collaboration and methodology dissemination.  We will use Github for our work collaborations and some course communication.
 3. Kennesaw LMS for graded assignments.
 
