@@ -131,3 +131,19 @@ The following scale highlights the work that must be completed to warrant the li
 
 1. One project completed in both languages.
 
+### Policies
+
+#### Kennesaw University
+
+- Accommodations: Any student with a documented disability or medical condition needing academic accommodations of class-related activities or schedules must contact the instructor immediately. Written verification from the KSU Student Disability Services ( https://sds.kennesaw.edu/index.phpl) is required. No requirements exist that accommodations be made before completion of this approved University documentation. All discussions will remain confidential.
+- Academic Integrity Statement: http://scai.kennesaw.edu/codes.php
+- Federal, BOR, & KSU Course Syllabus Policies: https://cia.kennesaw.edu/instructional-resources/syllabus-policy.php
+- Resources: https://cia.kennesaw.edu/instructional-resources/syllabus-resources.php
+
+#### COVID-19
+
+> All faculty, staff and students are strongly encouraged to receive a COVID-19 vaccine.
+
+> Based on guidance from the University System of Georgia (USG), all vaccinated and unvaccinated individuals are encouraged to wear a face covering while inside campus facilities. Unvaccinated individuals are also strongly encouraged to continue to socially distance while inside campus facilities, when possible.
+
+[Ref](https://www.kennesaw.edu/coronavirus/index.php)
