@@ -44,7 +44,8 @@ I follow the listed principles of data science teaching as found in [A Guide to 
 
 ## Course outline
 
-- __Data projects:__ We will complete each project in Python and R over three weeks.  You will also be responsible for picking a new data set and doing your creative analysis using the skills you learned during the project. 
+- __Class Data projects:__ We will complete each project in Python and R over three weeks.  
+- __Personal projects:__ You will also be responsible for picking a new data set to demonstrate your creative analysis using our course skills. 
 - __Data science readings:__ We will have data science 'being' readings which we will use in class discussions once each project.
 - __Coding challenges:__ A few times during the semester, you will have a coding challenge that lets you prove your developed programming skills.
 
@@ -61,13 +62,23 @@ After the first week of class, we will follow this class time routine for each p
 - __Day 5:__ Discuss the programming principles for the second language based on student questions from completed readings.  
 - __Day 6:__ Open programming time to complete the project in the second language.  Finalized project submission in both languages due before the next class period.
 
-### Project topics
+### Class Data Project topics
 
 - __Project 1:__ [Principles of visualization and Github](https://github.com/KSUDS/p1_visualization)
 - __Project 2:__ [Importing and tidying data](https://github.com/KSUDS/p2_data)
 - __Project 3:__ [Proving your point](https://github.com/KSUDS/p3_insight)
 - __Project 4:__ [Spatial data visualization and analysis](https://github.com/KSUDS/p4_spatial)
 - __Project 5:__ [Machine Learning Introduction](https://github.com/KSUDS/p5_machinelearning)
+
+### Personal projects
+
+You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during the course. I would make sure that these are presentable in your Github space. You want to demonstrate your creativity. You could use the following links to find a new data set. __Please use the [template provided in our Github Org](https://github.com/KSUDS/personal_project_tmplt)
+
+- [FiveThirtyEight](https://github.com/fivethirtyeight/data)
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+- [WorkoutWednesday](http://www.workout-wednesday.com/)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [data.world](https://data.world/search?context=community&entryTypeLabel=dataset&q=free+data&type=all)
 
 ## Course readings
 
