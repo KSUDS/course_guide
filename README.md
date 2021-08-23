@@ -72,7 +72,7 @@ After the first week of class, we will follow this class time routine for each p
 
 ### Personal projects
 
-You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during the course. I would make sure that these are presentable in your Github space. You want to demonstrate your creativity. You could use the following links to find a new data set. __Please use the [template provided in our Github Org](https://github.com/KSUDS/personal_project_tmplt)
+You don't need to make these projects complicated. These projects are built to show your work using the skills you have developed during the course. I would make sure that these are presentable in your Github space. You want to demonstrate your creativity. You could use the following links to find a new data set. __Please use the [template provided in our Github Org](https://github.com/KSUDS/personal_project_tmplt)__
 
 - [FiveThirtyEight](https://github.com/fivethirtyeight/data)
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
