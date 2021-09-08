@@ -48,7 +48,13 @@ print(msg)
 
 ![](https://byuidatascience.github.io/python4ds/screenshots/vscode-code-cells-01.png)
 
-To make the interactive window use more functional you can `ctrl + ,` or `cmd + ,` on a mac to open the settings. From there you can search _‘Send Selection to Interactive Window’_ and make sure the box is checked. Now you will be able to use `shift + return` to send a selected chunk of code or an entire cell.
+### Settings adjustments
+
+To make the interactive window use more functional you can `ctrl + ,` (`cmd + ,` on a mac) to open the settings. From there you can alter a few defaults.
+
+- Search _‘Send Selection to Interactive Window’_ and make sure the box is checked. Now you will be able to use `shift + return` to send a selected chunk of code or an entire cell.
+- Search _'Collapse Cell Input Code By Default'_ and uncheck the box. Now, your code will show expanded in the interactive Python console history by default.
+- Search _'Always Scroll on New Cell'_ and make sure the box is checked.  Now, each time you run a chunk or command from your `.py` script the interactive window will scroll to the output.
 
 ## R Extension for Visual Studio Code
 
