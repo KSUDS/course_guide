@@ -112,32 +112,35 @@ In a __specifications-grading system__, all tasks are evaluated on a high-standa
 
 ### Competency scale
 
-The following scale highlights the work that must be completed to warrant the listed grade.  Half-step in your respective grade can be negotiated in your grade request letter if you don't quite meet the specifications.
+The following scale highlights the work that must be completed to warrant the listed grade.  Half-step in your respective grade can be negotiated in your grade request letter if you don't quite meet the specifications. We will have two coding challenges during the semester.  The coding challenge will occur on 12/8.
 
 #### A: I am a data scientist
 
-1. All five projects fully completed in both languages. 
+1. All four projects fully completed in both languages. 
 2. Team lead presentation at least twice.
 3. Three independent data projects completed.
 4. Active participation in being readings.
 5. Semester deliverables completed.
+6. Score at least a 3 out of 4 on the final coding challenge.
 
 #### B: Becoming a data scientist
 
-1. All five projects completed in at least one language and three completed in both.
+1. All four projects completed in at least one language and two completed in both.
 2. Team lead presentation at least once.
 3. Two independent data projects.
 4. Active participation in being readings.
 5. Semester deliverables completed.
+6. Score at least a 3 out of 4 on the final coding challenge.
 
 #### C: I understand data scientists
 
-1. Four projects completed in at least one language and two completed in both.
+1. Three projects completed in at least one language and one completed in both.
 2. Team lead presentation at least once.
 3. One independent data project.
 4. Attendance at being readings.
 5. Semester deliverables completed.
-
+6. Score at least a 2 out of 4 on the final coding challenge.
+7. 
 #### D: I think I am awake
 
 1. One project completed in both languages.
