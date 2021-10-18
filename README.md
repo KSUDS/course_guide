@@ -140,7 +140,7 @@ The following scale highlights the work that must be completed to warrant the li
 4. Attendance at being readings.
 5. Semester deliverables completed.
 6. Score at least a 2 out of 4 on the final coding challenge.
-7. 
+
 #### D: I think I am awake
 
 1. One project completed in both languages.
