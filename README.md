@@ -108,7 +108,7 @@ In a __specifications-grading system__, all tasks are evaluated on a high-standa
 1. A [grade request letter](grade_request.md) stating the key concepts and techniques you learned during our projects and your goals to continue learning in this area, including a grade request representing your knowledge and task completion.
 1. A resume that includes the skills you have learned during our projects.
 1. A semester task form that records your completed tasks during the semester.
-1. Personal project submission on GitHub.
+1. Personal project submissions on GitHub.
 
 ### Competency scale
 
