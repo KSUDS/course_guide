@@ -1,24 +1,59 @@
-# Readings
+---
+layout: default
+nav_order: 'F'
+parent: User Guides
+---
 
-The doing readings are listed with each project to support what you will need to read to complete the respective project.  This list is for reference.  The being readings below are suggested.  As a class we will pick five to nine of them to read throughout the semester.
+# Links to resources
 
-<details markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+## Packages
+
+### Python
+
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [plotnine](https://plotnine.readthedocs.io/en/stable/)
+- [Altair](https://altair-viz.github.io/)
+- [geopandas](https://geopandas.org/en/stable/)
+- [folium](https://python-visualization.github.io/folium/)
+- [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [pyecharts](https://pyecharts.org/#/en-us/)
+
+### R
+
+[R for Data Science](https://r4ds.had.co.nz/index.html) is the best help to get you into the [tidyverse](https://www.tidyverse.org/)
+
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [dplyr](https://dplyr.tidyverse.org/)
+- [readr](https://readr.tidyverse.org/)
+- [stringr](https://stringr.tidyverse.org/)
+- [tidyr](https://tidyr.tidyverse.org/)
+- [purrr](https://purrr.tidyverse.org/)
+- [arrow](https://arrow.apache.org/docs/r/)
+- [sfarrow](https://github.com/wcjochem/sfarrow)
+- [waffle](https://github.com/hrbrmstr/waffle)
+- [ggfittext](https://github.com/wilkox/ggfittext)
+- [sf](https://r-spatial.github.io/sf/)
+- [USAboundaries](https://github.com/ropensci/USAboundaries)
+- [leaflet](https://rstudio.github.io/leaflet/)
+- [geofacet](https://hafen.github.io/geofacet/)
+- [DBI](https://dbi.r-dbi.org/)
+- [tidymodels](https://www.tidymodels.org/)
+
+## Links about data, programming, and visualization
+
+- [Salvaging the pie](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)
+- [Too many bars](https://www.darkhorseanalytics.com/blog/too-many-bars)
+- [How spatial polygons shape our world (Amelia McNamara)](https://www.youtube.com/watch?v=wn5larsRHro)
+- [How Humans See Data (John Rauser)](https://youtu.be/fSgEeI2Xpdc)
+- [Investigating Anomalies (John Rauser)](https://www.youtube.com/watch?v=-3dw09N5_Aw)
+- [Grammar of Graphics DataCamp](https://www.youtube.com/watch?v=uiTc55clwuA)
+- [Effectively Communicating Numbers](http://perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)
+- [Data Visualization (Chapter 1 - Look at data)](http://socviz.co/lookatdata.html)
 
 ## Being readings
-
-### Visualization
-
-- [John Rauser on visualization](https://youtu.be/fSgEeI2Xpdc)
-- [Effectively Communicating Numbers](http://perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)
-- [Hans Rosling: The River of Myths](https://youtu.be/OwII-dwh-bk) and [Data Scientist Florence Nightengale](http://www.atlasobscura.com/articles/florence-nightingale-infographic)
-- [Data Visualization (Chapter 1 - Look at data)](http://socviz.co/lookatdata.html)
 
 ### Structured thinking
 
@@ -40,7 +75,6 @@ The doing readings are listed with each project to support what you will need to
 - [Of beauty, sex, and power: Statistical challenges in estimating small effects](http://www.stat.columbia.edu/~gelman/research/unpublished/power.pdf)
 - [NoSQL vs. SQL: The Future of Data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 
-
 ### Ethics and data science
 
 - [Ethics of a Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html)
@@ -55,4 +89,3 @@ The doing readings are listed with each project to support what you will need to
 - [Who decides the ethics](https://www.wired.com/2016/05/scientists-just-confused-ethics-big-data-research/)
 - [What If Data Scientists Had Licenses Like Lawyers?](https://www.bloomberg.com/opinion/articles/2020-12-07/what-if-data-scientists-had-licenses-like-lawyers)
 - [What is an “algorithm”? It depends whom you ask](https://www.technologyreview.com/2021/02/26/1020007/what-is-an-algorithm/)
-
